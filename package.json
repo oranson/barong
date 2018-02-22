@@ -2,6 +2,14 @@
   "name": "barong",
   "private": true,
   "dependencies": {
-    "dropify": "^0.2.2"
+    "@rails/webpacker": "^3.2.2",
+    "babel-preset-react": "^6.24.1",
+    "dropify": "^0.2.2",
+    "prop-types": "^15.6.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "^2.11.1"
   }
 }
